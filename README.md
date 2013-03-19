@@ -7,9 +7,16 @@ Ejecución
 ======================
 
 1.  Compilación
-mvn package
+
+  ```mvn package```
 2.	Ejecución
-./target/ java -jar swagger-springmvc-demo-1.0.RELEASE-war-exec.jar
+  
+  ```./target/ java -jar swagger-springmvc-demo-1.0.RELEASE-war-exec.jar```
 3.	Visualización
-http://localhost:8080/
+  
+    http://localhost:8080/
+
+Licencia
+=============
+swagger-springmvc-demo se distribuye bajo la Mozilla Public License, version 2.0. El archivo LICENSE contiene más información sobre esta licencia. Usted puede leer más acerca de la MPL en Mozilla Public License FAQ.
 
