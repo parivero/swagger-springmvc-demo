@@ -1,7 +1,7 @@
 swagger-springmvc-demo
 ======================
 
-En este proyecto se muestra la integración de Swagger (https://developers.helloreverb.com/swagger/) y Spring MVC. Se exponen dos recursos Pais y Persona, el primero solo con las anotaciones de Spring MVC y al segundo se le agregan las anotaciones de Swagger-mvc (https://github.com/martypitt/swagger-springmvc) para obtener un mayor detalle en la documentación.
+En este proyecto se muestra la integración de [Swagger](https://developers.helloreverb.com/swagger/) y Spring MVC. Se exponen dos recursos Pais y Persona, el primero solo con las anotaciones de Spring MVC y al segundo se le agregan las anotaciones de [Swagger-mvc](https://github.com/martypitt/swagger-springmvc) para obtener un mayor detalle en la documentación.
 
 Ejecución
 ======================
