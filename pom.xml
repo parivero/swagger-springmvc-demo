@@ -156,7 +156,7 @@
                         </goals>
                         <phase>package</phase>
                         <configuration>
-                            <path>/</path>
+                            <path>/swagger-springmvc-demo</path>
                         </configuration>
                     </execution>
                 </executions>
